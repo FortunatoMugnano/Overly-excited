@@ -19,10 +19,10 @@ function addExcitement (theWordArray, character, multiplier) {
             }
         }
         buildMeUp += " " // Add a space
-        console.log(buildMeUp);
+        console.log(buildMeUp)
     }
 
 }
 
 // Invoke the function and pass in the array
-addExcitement(sentence, "!", 4);
+addExcitement(sentence, "!", 1);
